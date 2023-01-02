@@ -1,0 +1,26 @@
+#tela
+{
+    padding: 130px 400px 200px 400px;
+}
+
+#informacoes
+{
+    background-color: aqua;
+    display: flex;
+    padding: 15px 20px;
+}
+
+#dificuldade
+{
+    flex: 1;
+    background-color: white;
+    height: 30px;
+    display: block;
+    text-align: center;
+    padding-top: 10px;
+}
+
+#bombas
+{
+    flex: 6;
+}
